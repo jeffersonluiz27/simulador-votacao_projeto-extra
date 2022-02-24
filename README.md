@@ -2,7 +2,7 @@
 #### Esse projeto não deve ser entregue, é apenas um exercício
 
 A ideia deste projeto é criar um programa que simule uma votação com todo o conteúdo visto no módulo até este momento.
-O programa deve:
+## O programa deve:
 - Receber votos até que o usuário diga que não tem mais ninguém para votar;
 - Ter uma função chamada autorizaVoto(anoNascimento) retornando: "Negado", "Opcional" ou "Obrigatório";
 - Ter uma função chamada votacao(autorizacao, voto) que valida e contabiliza o voto (número entre 1 e 5) ou retorna a mensagem: 
